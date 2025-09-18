@@ -103,4 +103,4 @@ Thanks to Depot for providing build instances for our Docker image builds.
 [license-url]: https://github.com/mealie-recipes/mealie/blob/mealie-next/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/hay-kot
-[product-screenshot]: docs/docs/assets/img/home_screenshot.png
+[product-screenshot]:docs/docs/assets/img/home_screenshot.png
